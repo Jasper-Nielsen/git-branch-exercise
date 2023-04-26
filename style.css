@@ -1,12 +1,16 @@
 :root {
   font-family: "Courier New", Courier, monospace;
   color: rgb(22, 42, 35);
+  scroll-behavior: smooth;
 }
 
+body {
+  min-height: 100%;
+}
 
-
-#javascript-keywords {
+.section {
   color: rgb(63, 58, 58);
+  height: 100vh;
 }
 
 nav {
