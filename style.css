@@ -1,4 +1,8 @@
 :root{
     font-family: 'Courier New', Courier, monospace;
-    color: aquamarine;
+    color: rgb(22, 42, 35);
+}
+
+#keywords{
+    color: rgb(63, 58, 58);
 }
