@@ -1,8 +1,14 @@
-:root{
-    font-family: 'Courier New', Courier, monospace;
-    color: rgb(22, 42, 35);
+:root {
+  font-family: "Courier New", Courier, monospace;
+  color: rgb(22, 42, 35);
 }
 
-#keywords{
-    color: rgb(63, 58, 58);
+
+
+#javascript-keywords {
+  color: rgb(63, 58, 58);
+}
+
+nav {
+  display: block;
 }
